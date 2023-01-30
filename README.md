@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm irsya</h1>
 <h3 align="center">Iam programmer from indonesia</h3>
-<h3 align="center">(n)coffee . one sunset . petals 204 🌙💐</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irsyaa" alt="irsyaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/irryy4" target="blank"><img src="https://img.shields.io/twitter/follow/irryy4?logo=twitter&style=for-the-badge" alt="irryy4" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irsyaa&label=Profile%20views&color=0e75b6&style=flat" alt="irsyaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irsyaa&show_icons=true&locale=en&layout=compact" alt="irsyaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irsyaa&show_icons=true&locale=en" alt="irsyaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irsyaa&" alt="irsyaa" /></p>
