@@ -4,10 +4,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echamchan&label=Profile%20views&color=0e75b6&style=flat" alt="echamchan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chaamchn" target="blank"><img src="https://img.shields.io/twitter/follow/chaamchn?logo=twitter&style=for-the-badge" alt="chaamchn" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irsyaa&label=Profile%20views&color=0e75b6&style=flat" alt="irsyaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irsyaa" alt="irsyaa" /></a> </p>
